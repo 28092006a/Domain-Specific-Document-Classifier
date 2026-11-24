@@ -5,20 +5,6 @@ predicts its **domain** (Medical, Finance, Legal, Technology, Education, Sports)
 shows a **confidence score**, and **automatically files the document** in the matching folder.
 
 ---
-
-![Uploading image.png…]()
-
-
-
-
-
-
-
-
-
-
-
-
 ## 1. Project Structure
 
 ```
