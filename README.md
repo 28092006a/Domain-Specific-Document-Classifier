@@ -5,6 +5,8 @@ predicts its **domain** (Medical, Finance, Legal, Technology, Education, Sports)
 shows a **confidence score**, and **automatically files the document** in the matching folder.
 
 ---
+<img width="1120" height="464" alt="image" src="https://github.com/user-attachments/assets/1d9a0da4-141a-4c31-8280-1241bdab2805" />
+
 ## 1. Project Structure
 
 ```
