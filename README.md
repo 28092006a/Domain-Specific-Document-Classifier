@@ -6,6 +6,36 @@ shows a **confidence score**, and **automatically files the document** in the ma
 
 ---
 
+
+<div align="center">
+
+<img src="a_polished_modern_promotional_dashboard_project.png" width="100%" alt="NLP Document Classifier">
+
+# NLP-Based Domain-Specific Document Classifier
+
+**Intelligent Document Classification Using NLP & Machine Learning**
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 1. Project Structure
 
 ```
