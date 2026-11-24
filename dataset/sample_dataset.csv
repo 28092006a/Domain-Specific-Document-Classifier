@@ -1,0 +1,121 @@
+text,label
+"The patient was admitted with chest pain and shortness of breath. The doctor ordered an ECG and blood tests to rule out a myocardial infarction before starting treatment.",Medical
+"Diabetes mellitus is a chronic condition where the body cannot regulate blood glucose. Treatment includes insulin therapy, a balanced diet and regular monitoring of blood sugar levels.",Medical
+"The surgeon performed a laparoscopic appendectomy under general anesthesia and the patient recovered in the ward with antibiotics and pain medication.",Medical
+"Hypertension increases the risk of stroke and kidney disease. Physicians recommend reducing salt intake, exercising daily and taking prescribed antihypertensive medication.",Medical
+"The clinical trial evaluated the efficacy of a new vaccine against influenza in adults. Participants reported mild side effects such as fever and soreness at the injection site.",Medical
+"Radiology reports showed a small fracture in the left femur. The orthopedic specialist advised a plaster cast and physiotherapy sessions for six weeks.",Medical
+"Symptoms of asthma include wheezing, coughing and tightness in the chest. An inhaler containing bronchodilators provides quick relief during an attack.",Medical
+"The hospital pharmacy dispensed antibiotics, paracetamol and vitamin supplements according to the prescription written by the consultant physician.",Medical
+"Cancer screening through mammography and biopsy helps detect tumors early. Oncologists plan chemotherapy or radiation therapy depending on the stage of the disease.",Medical
+"A nurse measured the temperature, pulse and blood pressure of each patient during the morning round and recorded the readings in the medical chart.",Medical
+"Pediatricians recommend timely immunization for infants to protect against measles, polio and tuberculosis, along with regular checkups for growth and nutrition.",Medical
+"The MRI scan revealed inflammation in the spinal cord. The neurologist suspected multiple sclerosis and recommended further tests and steroid therapy.",Medical
+"Depression and anxiety disorders are treated with counseling, cognitive behavioral therapy and sometimes antidepressant medication prescribed by a psychiatrist.",Medical
+"Dengue fever is transmitted by mosquitoes and causes high fever, severe headache and low platelet count. Patients need hydration, rest and close medical supervision.",Medical
+"The dentist cleaned the cavities, performed a root canal treatment and advised the patient to brush twice daily and avoid sugary food.",Medical
+"Emergency doctors stabilized the accident victim, controlled the bleeding, administered intravenous fluids and shifted him to the intensive care unit.",Medical
+"Pregnant women should attend regular antenatal visits, take folic acid supplements and undergo ultrasound examinations to monitor the health of the baby.",Medical
+"Kidney dialysis removes waste products from the blood when the kidneys fail. Patients undergo the procedure several times a week under nephrologist guidance.",Medical
+"The laboratory report showed elevated cholesterol and low hemoglobin levels, so the physician prescribed medicines and recommended dietary changes.",Medical
+"Antibiotic resistance occurs when bacteria evolve to survive drugs. Doctors must prescribe antibiotics carefully to prevent infection from becoming untreatable.",Medical
+"The central bank raised the interest rate by 25 basis points to control inflation, which pushed bond yields higher and weakened the stock market.",Finance
+"The company reported quarterly revenue of five million dollars with a net profit margin of twelve percent, and the board approved a dividend for shareholders.",Finance
+"Investors diversify their portfolio by holding stocks, mutual funds, bonds and gold to reduce risk and achieve steady long term returns.",Finance
+"The balance sheet lists assets, liabilities and shareholder equity, while the income statement shows revenue, expenses and net income for the financial year.",Finance
+"A home loan carries a fixed or floating interest rate and the borrower repays the principal and interest through equated monthly installments.",Finance
+"Cryptocurrency prices fluctuated sharply as traders reacted to regulatory news, and many analysts warned about volatility and speculative risk in digital assets.",Finance
+"The tax return must report salary income, capital gains and deductions under section eighty C before the deadline to avoid penalties from the revenue department.",Finance
+"Banks offer savings accounts, fixed deposits and credit cards, and they earn profit from the difference between lending and deposit rates.",Finance
+"The auditor examined the accounts to verify that the financial statements were accurate, complied with accounting standards and free from fraud.",Finance
+"Stock exchanges recorded heavy trading volume as the Sensex and Nifty indices rose, driven by strong foreign institutional investment and corporate earnings.",Finance
+"Inflation reduces the purchasing power of money, so economists monitor the consumer price index and gross domestic product growth to guide monetary policy.",Finance
+"Insurance premiums are calculated based on risk, and policyholders can claim compensation for losses covered under the life or general insurance policy.",Finance
+"The startup raised funding from venture capital firms in a Series A round, valuing the company at fifty million dollars before the next investment.",Finance
+"Budget planning involves estimating monthly income and expenses, setting aside savings, and investing through systematic investment plans in mutual funds.",Finance
+"Credit rating agencies assess the creditworthiness of borrowers, and a lower rating increases borrowing costs and the risk of loan default.",Finance
+"The merger required approval from regulators, and analysts expect the acquisition to improve cash flow, reduce operating costs and increase market capitalization.",Finance
+"Foreign exchange markets determine currency rates, and a weaker rupee against the dollar makes imports costly and affects the trade deficit.",Finance
+"Accountants record every transaction in the ledger using double entry bookkeeping, then prepare the trial balance and profit and loss account.",Finance
+"A mutual fund pools money from many investors and a fund manager invests it in equities and debt instruments, charging an expense ratio.",Finance
+"The pension fund allocates retirement savings across equities and government securities to earn compounding returns and protect against longevity risk.",Finance
+"This agreement is entered into between the landlord and the tenant, and the tenant shall pay monthly rent and shall not sublet the premises without written consent.",Legal
+"The plaintiff filed a petition in the High Court seeking an injunction against the defendant for breach of contract and claimed damages.",Legal
+"The court held that the accused was guilty under section 302 of the Indian Penal Code and sentenced him to life imprisonment after reviewing evidence.",Legal
+"Intellectual property law protects patents, trademarks and copyrights, and infringement may lead to legal action, penalties and compensation to the owner.",Legal
+"The defendant's counsel argued that the witness testimony was inadmissible and requested the judge to dismiss the case for lack of evidence.",Legal
+"Under the terms of the non disclosure agreement the parties shall keep all confidential information secret and shall be liable for any breach.",Legal
+"The Supreme Court delivered a landmark judgment on fundamental rights, interpreting Article 21 of the Constitution to include the right to privacy.",Legal
+"A will is a legal document in which the testator declares how the property should be distributed among heirs after death, subject to probate.",Legal
+"The advocate drafted a legal notice demanding payment within thirty days failing which the client would initiate civil proceedings against the debtor.",Legal
+"Arbitration is an alternative dispute resolution mechanism in which an impartial arbitrator hears both parties and issues a binding award.",Legal
+"The employment contract states the notice period, termination clauses and obligations of the employee, and any dispute shall be governed by the jurisdiction of Delhi courts.",Legal
+"The bail application was heard by the magistrate who granted bail on condition that the accused surrenders his passport and appears before the court.",Legal
+"Consumer protection law allows customers to file complaints against defective goods and unfair trade practices before the consumer disputes redressal commission.",Legal
+"The appellant challenged the order of the lower court, and the appellate tribunal examined the statutory provisions and set aside the earlier decision.",Legal
+"Divorce proceedings under family law require grounds such as cruelty or desertion, and the court may decide alimony and custody of the children.",Legal
+"The legislature enacted a new statute amending the data protection act, and companies must comply with the clauses or face prosecution and fines.",Legal
+"The deed of sale transfers ownership of the property to the buyer, and it must be registered with the sub registrar along with stamp duty.",Legal
+"The witness took an oath, was cross examined by the prosecution, and the judge recorded the affidavit as evidence in the criminal trial.",Legal
+"The indemnity clause requires the contractor to compensate the client for any loss arising from negligence, and the parties waive all claims except as stated herein.",Legal
+"The tribunal issued a writ of mandamus directing the government authority to perform its statutory duty in accordance with the law.",Legal
+"Machine learning algorithms learn patterns from data, and deep neural networks power applications such as image recognition, speech assistants and recommendation engines.",Technology
+"Cloud computing platforms provide scalable servers, storage and databases over the internet, allowing companies to deploy applications without maintaining physical hardware.",Technology
+"The software developer wrote a Python script to automate the build, fixed bugs in the code and pushed the commit to the GitHub repository.",Technology
+"Cybersecurity experts use firewalls, encryption and multi factor authentication to protect networks from malware, phishing and ransomware attacks.",Technology
+"The new smartphone features a faster processor, a high resolution OLED display, 5G connectivity and an improved camera with artificial intelligence enhancements.",Technology
+"A relational database stores data in tables and uses SQL queries to insert, update and retrieve records efficiently for web applications.",Technology
+"The Internet of Things connects sensors and smart devices, collecting real time data that is analyzed on edge servers and cloud platforms.",Technology
+"Blockchain technology maintains a distributed ledger secured by cryptography, enabling transparent transactions without a central authority.",Technology
+"Web developers build responsive websites using HTML, CSS and JavaScript frameworks, and they deploy the backend using REST APIs and containers.",Technology
+"Large language models are trained on massive text corpora using transformer architectures and can generate code, summarize documents and answer questions.",Technology
+"Operating systems manage memory, processes and file systems, and Linux is widely used on servers because it is open source and stable.",Technology
+"Network engineers configure routers and switches, assign IP addresses and monitor bandwidth to keep the local area network fast and reliable.",Technology
+"Quantum computers use qubits that exist in superposition, promising speed up for cryptography, optimization and the simulation of molecules.",Technology
+"DevOps teams use continuous integration, Docker containers and Kubernetes to automate testing and deployment of software releases.",Technology
+"Robotics combines sensors, actuators and control software, and autonomous drones use computer vision to navigate and avoid obstacles.",Technology
+"The startup launched a mobile app for Android and iOS that uses GPS, push notifications and a cloud backend to deliver real time updates.",Technology
+"Semiconductor companies are designing smaller chips with advanced processors and graphics cards to improve performance of laptops and data centers.",Technology
+"Data engineers build pipelines that extract, transform and load big data into warehouses where analysts run queries and create dashboards.",Technology
+"Virtual reality headsets render immersive three dimensional environments, and augmented reality overlays digital information on the real world.",Technology
+"A compiler translates source code into machine code, while debugging tools help programmers find memory leaks and logical errors in programs.",Technology
+"The university announced the new semester timetable, and students must register for courses, attend lectures and submit assignments before the deadline.",Education
+"Teachers use lesson plans, classroom activities and formative assessment to help students understand concepts and improve learning outcomes in the curriculum.",Education
+"The board examination results were declared, and students who passed with distinction are eligible for scholarships and admission to top colleges.",Education
+"Online learning platforms offer video lectures, quizzes and certificates, allowing learners to study at their own pace from anywhere.",Education
+"The principal addressed the school assembly and encouraged pupils to participate in debates, science exhibitions and extracurricular activities.",Education
+"A bachelor's degree program includes core subjects, electives, practical laboratories and a final year project supervised by a faculty member.",Education
+"The national education policy emphasizes early childhood education, skill development, and flexible curriculum choices for secondary and higher education.",Education
+"Students prepare for entrance exams by solving previous year question papers, attending coaching classes and revising the syllabus regularly.",Education
+"The professor delivered a lecture on research methodology and guided the doctoral scholars in writing their thesis and publishing papers.",Education
+"Kindergarten teachers use storytelling, rhymes and play based methods to develop language, numeracy and social skills in young children.",Education
+"The library provides textbooks, journals and digital resources, and students can borrow books and use study rooms to prepare for examinations.",Education
+"Parents attended the teacher meeting to discuss the child's report card, attendance, homework habits and academic performance during the term.",Education
+"The college organized a campus placement drive and a workshop to improve the communication skills and employability of graduating students.",Education
+"Pedagogy focuses on teaching strategies, and effective educators adapt their classroom management and assessment methods to different learning styles.",Education
+"The scholarship program supports meritorious students from low income families to pay tuition fees and pursue higher studies abroad.",Education
+"Students submitted their project reports and presented seminars, and the examiner evaluated them based on marks, grades and viva voce.",Education
+"Special education teachers develop individual learning plans and use assistive tools to support students with learning difficulties in inclusive classrooms.",Education
+"The department updated the syllabus for the academic year, adding new subjects, credit hours, internal assessments and practical examinations.",Education
+"Distance education allows working professionals to earn a diploma or master's degree through study materials, online classes and periodic examinations.",Education
+"The school introduced a smart classroom with projectors and tablets to make lessons interactive and to improve student engagement and attendance.",Education
+"India won the cricket match by six wickets as the captain scored a brilliant century and the bowlers took early wickets in the final overs.",Sports
+"The striker scored a hat trick in the football match, and the team qualified for the tournament final after a thrilling penalty shootout.",Sports
+"The tennis player defeated the top seed in straight sets to win the Grand Slam title and lifted the trophy in front of a cheering crowd.",Sports
+"The athlete broke the national record in the hundred meter sprint and won the gold medal at the Olympic Games.",Sports
+"The coach announced the squad for the upcoming league season, praising the defenders and the goalkeeper for their fitness and consistent performance.",Sports
+"Basketball fans filled the stadium as the home team won the championship with a last second three point shot by the point guard.",Sports
+"The Formula One driver took pole position and led the race from start to finish, securing the world championship for his team.",Sports
+"The badminton star won the women's singles title at the world championship after a tense match against the defending champion.",Sports
+"During the Indian Premier League auction, franchises bid for batsmen, bowlers and all rounders to build a strong team for the tournament.",Sports
+"The hockey team defended their goal brilliantly and scored a late equalizer, advancing to the semifinals of the World Cup.",Sports
+"The referee showed a red card to the midfielder, and the club appealed against the suspension before the crucial derby match.",Sports
+"Swimmers trained daily in the pool, and the young swimmer set a new record in the freestyle event at the national championship.",Sports
+"The wrestler won a bronze medal at the Commonwealth Games, and the federation congratulated him for his strength, discipline and determination.",Sports
+"The marathon runners started at dawn, and the Kenyan athlete crossed the finish line first with a time of just over two hours.",Sports
+"The golfer finished under par on the final round and clinched the tournament victory with a long putt on the eighteenth hole.",Sports
+"The boxing champion defended his title with a knockout in the third round, and the crowd cheered as the referee stopped the fight.",Sports
+"The women's cricket team chased down the target with two balls to spare and the captain was named player of the match.",Sports
+"The sports ministry announced new training facilities for athletes and the federation will send the team to the Asian Games next month.",Sports
+"The cyclist won the stage of the Tour de France after a long breakaway climb, taking the yellow jersey in the overall standings.",Sports
+"The goalkeeper made a spectacular save in extra time, and the team lifted the trophy after winning the league title on goal difference.",Sports

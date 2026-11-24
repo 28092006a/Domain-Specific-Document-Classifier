@@ -1,0 +1,160 @@
+{
+  "best_model": "Logistic Regression",
+  "n_samples": 120,
+  "n_train": 96,
+  "n_test": 24,
+  "class_counts": {
+    "Medical": 20,
+    "Finance": 20,
+    "Legal": 20,
+    "Technology": 20,
+    "Education": 20,
+    "Sports": 20
+  },
+  "labels": [
+    "Education",
+    "Finance",
+    "Legal",
+    "Medical",
+    "Sports",
+    "Technology"
+  ],
+  "models": {
+    "Multinomial Naive Bayes": {
+      "accuracy": 0.875,
+      "precision": 0.8916666666666666,
+      "recall": 0.875,
+      "f1": 0.8657407407407408,
+      "cv_f1_mean": 0.9094276094276094,
+      "cv_f1_std": 0.06492323480856928,
+      "cv_folds": 5,
+      "report": "              precision    recall  f1-score   support\n\n   Education       0.80      1.00      0.89         4\n     Finance       1.00      0.50      0.67         4\n       Legal       0.75      0.75      0.75         4\n     Medical       1.00      1.00      1.00         4\n      Sports       1.00      1.00      1.00         4\n  Technology       0.80      1.00      0.89         4\n\n    accuracy                           0.88        24\n   macro avg       0.89      0.88      0.87        24\nweighted avg       0.89      0.88      0.87        24\n",
+      "confusion_matrix": [
+        [
+          4,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          3,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          4,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          4,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          4
+        ]
+      ],
+      "labels": [
+        "Education",
+        "Finance",
+        "Legal",
+        "Medical",
+        "Sports",
+        "Technology"
+      ]
+    },
+    "Logistic Regression": {
+      "accuracy": 0.9166666666666666,
+      "precision": 0.9333333333333332,
+      "recall": 0.9166666666666666,
+      "f1": 0.9074074074074074,
+      "cv_f1_mean": 0.9384391534391534,
+      "cv_f1_std": 0.035700722488232604,
+      "cv_folds": 5,
+      "report": "              precision    recall  f1-score   support\n\n   Education       1.00      1.00      1.00         4\n     Finance       1.00      0.50      0.67         4\n       Legal       0.80      1.00      0.89         4\n     Medical       1.00      1.00      1.00         4\n      Sports       1.00      1.00      1.00         4\n  Technology       0.80      1.00      0.89         4\n\n    accuracy                           0.92        24\n   macro avg       0.93      0.92      0.91        24\nweighted avg       0.93      0.92      0.91        24\n",
+      "confusion_matrix": [
+        [
+          4,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          4,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          4,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          4,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          4
+        ]
+      ],
+      "labels": [
+        "Education",
+        "Finance",
+        "Legal",
+        "Medical",
+        "Sports",
+        "Technology"
+      ]
+    }
+  }
+}
